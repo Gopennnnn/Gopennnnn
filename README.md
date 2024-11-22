@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Alfin Syahri.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed Koltin and make it the main language in creating a project.
 
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
